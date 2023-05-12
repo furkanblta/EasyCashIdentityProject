@@ -23,5 +23,6 @@ namespace EasyCashIdentityProject.EntityLayer.Concrete
 
 
 
+
     }
 }
